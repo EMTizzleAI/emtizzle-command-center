@@ -7,7 +7,7 @@ const apps=[
  {name:'Job Goblin',group:'GOBLINS',desc:'Local-first autonomous job-hunting copilot.',url:'#',local:true},
  {name:'Pantry Goblin V2',group:'GOBLINS',desc:'Pantry intelligence from the creature lab.',url:'#',local:true},
  {name:'DropShip Goblin',group:'GOBLINS',desc:'Commerce experiment from Goblin Network.',url:'#',local:true},
- {name:'Glitchbot',group:'TRANSMISSIONS',desc:'Magazine, visuals, stories and transmissions.',url:'#'},
+ {name:'Glitchbot',group:'TRANSMISSIONS',desc:'Magazine, visuals, stories and transmissions.',url:'https://emtizzleai.github.io/glitchbot-magazine/'},
  {name:'GitHub',group:'BUILD',desc:'EMTizzleAI source control and creature repositories.',url:'https://github.com/EMTizzleAI'},
  {name:'Vercel',group:'BUILD',desc:'Deployments and live web nodes.',url:'https://vercel.com/dashboard'},
  {name:'LinkedIn',group:'TRANSMISSIONS',desc:'Professional broadcast channel.',url:'https://www.linkedin.com/'}
